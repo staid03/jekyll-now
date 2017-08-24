@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Jekyll Blogging
+title: Begin
 ---
-Quick test
-Test2
+Looking to build a portfolio of work I complete.
