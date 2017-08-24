@@ -2,4 +2,4 @@
 layout: post
 title: Begin
 ---
-Looking to build a portfolio of work I complete.
+Building a portfolio of work I complete.
