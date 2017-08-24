@@ -18,15 +18,15 @@ avatar: https://github.com/staid03/Images/blob/master/Hew%20Reid%20-%20photo.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   #dribbble:
-  email: hew.a.reid@gmail.com
+  #email: hew.a.reid@gmail.com
   #facebook:
   #flickr:
   #github: barryclark/jekyll-now
   #instagram:
-  linkedin: https://www.linkedin.com/in/hew-reid-9a99a732/
+  linkedin: hew-reid-9a99a732
   #pinterest:
   #rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/HReid__
+  twitter: HReid__
   #stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   #youtube: # channel/<your_long_string> or user/<user-name>
   #googleplus: # anything in your profile username that comes after plus.google.com/
