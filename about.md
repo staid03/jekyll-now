@@ -9,4 +9,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:hew.a.reid@gmail.com)
+[hew.a.reid@gmail.com](mailto:hew.a.reid@gmail.com)
