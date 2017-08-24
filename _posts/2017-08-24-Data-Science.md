@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science
-comments:true
+comments: true
 ---
 List of resources:
 <li> a resources
